@@ -1,0 +1,7 @@
+git+https://github.com/Rapptz/discord.py
+discord
+selenium
+requests
+bs4
+webdriver-manager
+lxml
